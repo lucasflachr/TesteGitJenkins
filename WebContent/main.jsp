@@ -26,7 +26,7 @@
 		            <span class="icon-bar"></span>
 		            <span class="icon-bar"></span>
 		          </button>
-		          <a class="brand" href="#">Padaria</a>
+		          <a class="brand" href="#">Padaria do joão</a>
 		          <div class="nav-collapse collapse">
 		            <ul class="nav">
 		              <li class="active"><a href="javaScript:acaoUsuario('conta');">Cadastro Conta Corrente</a></li>
